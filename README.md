@@ -8,7 +8,7 @@ PasswordGenerator is a simple, easy-to-use tool for generating strong and random
 - Simple and user-friendly interface.
 
 ## How to Use:
-1. Visit the generator [here](https://tuusuario.github.io/PasswordGenerator).
+1. Visit the generator [here](https://bautigand.github.io/PasswordGenerator/).
 2. Choose the length and character types (numbers, symbols, uppercase, etc.) for your password.
 3. Click on "Generate" to create your secure password.
 
